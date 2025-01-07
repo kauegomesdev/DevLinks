@@ -11,7 +11,7 @@ img.setAttribute('src', './assets/avatar-new1.png')
 
 } else {
 
-  img.setAttribute('src', './assets/avatar-new1.png')
+  img.setAttribute('src', './assets/avatar-new3.png')
 }
 
 }
